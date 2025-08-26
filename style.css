@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+     background-color: brown;
+     color: white;
+}
+ 
+.navbar-expand-lg{
+    background: transparent;
+}
+.navbar-nav{
+ 
+    margin-left: 350px !important;
+}
+/* @media(min-width:480) and (max-width:767) {
+    .navbar-nav{
+ 
+    
+}
+} */
+ .card{
+    width: 50%;
+    height: 90vh;
+    background: transparent !important;
+    border:none !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col-sm-3 img{
+    height: 250px; 
+    width: 250px;
+}
+.carousel-inner img{
+    height: 600px;
+
+   
+}
+footer .col-sm-3,footer .col-sm-3 p, footer .col-sm-3 h1,footer .col-sm-3 i{
+    background:transparent !important;
+}
+
+.fa-instagram{
+    color: rgb(250, 106, 130);
+}
+.fa-linkedin{
+    color: rgb(63, 157, 194);
+}
+.fa-youtube{
+    color: rgb(252, 29, 29);
+}
+.fa-facebook{
+ color: rgb(60, 60, 156);
+}
+
+footer .col-sm-3 a:hover{
+    color: yellow !important;
+}
+
